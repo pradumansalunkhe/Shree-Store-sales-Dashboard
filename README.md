@@ -1,5 +1,5 @@
 # Shree-Store-sales-Dashboard
-#Objective
+# Objective
 A contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide Jaluable insights and accurate sales forecasting.
 # DESCRIPTION
 The objective can be broken down into the following detailed components:
